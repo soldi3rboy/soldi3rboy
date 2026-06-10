@@ -4,7 +4,7 @@
 </p>
 
 <p align="left">
-	<a href="https://rentry.co/gumball">Rentry</a>  
+	<a href="https://soldi3rboy.straw.page/">Strawpage</a>  
 </p>
 
 
